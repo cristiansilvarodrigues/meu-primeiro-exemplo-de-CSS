@@ -13,7 +13,7 @@
             }
 
             p {
-              font-family:verdana;
+              font-family: verdana;
               font-size: 20px;
             }
         </style>
